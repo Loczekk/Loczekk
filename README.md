@@ -23,7 +23,15 @@ I am an electronics engineer with a focus on high-frequency circuit design. My w
 
 ### 📡 Featured Projects
 
-[![PCB Antenna](assets/projects/pcb_antenna_thumb.jpg)](https://github.com/twoje-repo/pcb-antenna)
-[![2.4 GHz Filter](assets/projects/filter_thumb.jpg)](https://github.com/twoje-repo/2ghz-filter)
-[![ESP32 Sensor Node](assets/projects/esp32_node_thumb.jpg)](https://github.com/twoje-repo/esp32-node)
-https://github.com/Loczekk/ADF4350-generator
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Loczekk/ADF4350-generator">
+        <img src="assets/projects/generator miniaturka.png" width="220px" alt="ADF4350 Generator Thumbnail"/><br/   
+      </a>
+    <sub><b>ADF4350 RF Generator</b></sub><br/>
+    </td>
+  </tr>
+</table>
+
+
