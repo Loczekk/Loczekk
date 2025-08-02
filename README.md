@@ -8,13 +8,14 @@ I am an electronics engineer with a focus on high-frequency circuit design. My w
 
 ### 🧰 Tools and Technologies
 
-<img align="left" alt="KiCad" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/34/KiCad_Logo.svg"/>
+<img align="left" alt="KiCad" width="40px" style="padding-right:10px;" src="assets/icons/kicad.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="MATLAB" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"/>
-<img align="left" alt="STM32CubeIDE" width="40px" style="padding-right:10px;" src="https://www.st.com/content/dam/logos/st-logo.png"/>
-<img align="left" alt="LTspice" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/LTspice_Logo.png"/>
-<img align="left" alt="AWR Design Environment" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/AWR_logo.png/320px-AWR_logo.png"/>
+<img align="left" alt="LTSpice" width="40px" style="padding-right:10px;" src="assets/icons/ltspice.svg" />
+<img align="left" alt="STM32" width="40px" style="padding-right:10px;" src="assets/icons/stmicroelectronics.svg" />
+<img align="left" alt="ESP" width="40px" style="padding-right:10px;" src="assets/icons/espressif.svg" />
+<img align="left" alt="Arduino" width="40px" style="padding-right:10px;" src="assets/icons/arduino.svg" />
 <br/>
 
 #
