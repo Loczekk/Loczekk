@@ -34,7 +34,7 @@ I am an electronics engineer with a focus on high-frequency circuit design. My w
     </td>
     <td align="center">
       <a href="https://github.com/Loczekk/power-meter">
-        <img src="assets/projects/generator miniaturka.png" width="220px" alt="ADF4350 Generator Thumbnail"/>
+        <img src="assets/projects/power meter.png" width="220px" alt="power meter Thumbnail"/>
       </a>
       <br/>
       <sub><b>Power meter</b></sub>
@@ -44,7 +44,7 @@ I am an electronics engineer with a focus on high-frequency circuit design. My w
         <img src="assets/projects/project3.png" width="220px" alt="Project 3 Thumbnail"/>
       </a>
       <br/>
-      <sub><b>Project 3 Title</b></sub>
+      <sub><b>RF detektor based on AD8318</b></sub>
     </td>
   </tr>
 </table>
