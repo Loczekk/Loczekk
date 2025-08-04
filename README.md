@@ -41,7 +41,7 @@ I am an electronics engineer with a focus on high-frequency circuit design. My w
     </td>
     <td align="center">
       <a href="https://github.com/Loczekk/project-3">
-        <img src="assets/projects/project3.png" width="220px" alt="Project 3 Thumbnail"/>
+        <img src="assets/projects/detektory.png" width="220px" alt="Detektory Thumbnail"/>
       </a>
       <br/>
       <sub><b>RF detektor based on AD8318</b></sub>
