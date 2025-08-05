@@ -25,29 +25,33 @@ I am an electronics engineer with a focus on high-frequency circuit design. My w
 
 <table>
   <tr>
-    <td align="center">
+    <!-- Projekt 1 -->
+    <td align="center" style="padding: 10px;">
       <a href="https://github.com/Loczekk/ADF4350-generator">
-        <img src="assets/projects/generator miniaturka.png" width="220px" alt="ADF4350 Generator Thumbnail"/>
+        <img src="assets/projects/generator miniaturka.png" width="220px" alt="ADF4350 Generator" style="border-radius: 10px;">
       </a>
-      <br/>
-      <sub><b>ADF4350 RF Generator</b></sub>
+      <div><strong>ADF4350 RF Generator</strong></div>
     </td>
-    <td align="center">
+    <!-- Projekt 2 -->
+    <td align="center" style="padding: 10px;">
       <a href="https://github.com/Loczekk/power-meter">
-        <img src="assets/projects/power meter.png" width="220px" alt="power meter Thumbnail"/>
+        <img src="assets/projects/power meter.png" width="220px" alt="Power meter" style="border-radius: 10px;">
       </a>
-      <br/>
-      <sub><b>Power meter</b></sub>
+      <div><strong>Power meter</strong></div>
     </td>
-    <td align="center">
+    <!-- Projekt 3 -->
+    <td align="center" style="padding: 10px;">
       <a href="https://github.com/Loczekk/project-3">
-        <img src="assets/projects/detektory.png" width="220px" alt="Detektory Thumbnail"/>
+        <img src="assets/projects/detektory.png" width="220px" alt="RF Detektor" style="border-radius: 10px;">
       </a>
-      <br/>
-      <sub><b>RF detektor based on AD8318</b></sub>
+      <div><strong>RF detektor based on AD8318</strong></div>
     </td>
   </tr>
 </table>
+
+
+
+
 
 
 
