@@ -35,7 +35,7 @@ I am an electronics engineer with a focus on high-frequency circuit design. My w
     <!-- Projekt 2 -->
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/Loczekk/power-meter">
-        <img src="assets/projects/power meter.png" width="220px" alt="Power meter" style="border-radius: 10px;">
+        <img src="assets/projects/power meter.png" width="250px" alt="Power meter" style="border-radius: 10px;">
       </a>
       <div><strong>Power meter</strong></div>
     </td>
@@ -45,6 +45,18 @@ I am an electronics engineer with a focus on high-frequency circuit design. My w
         <img src="assets/projects/detektory.png" width="220px" alt="RF Detektor" style="border-radius: 10px;">
       </a>
       <div><strong>RF detektor based on AD8318</strong></div>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <!-- Projekt 1 -->
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/Loczekk/hydrogen-line-LNA">
+        <img src="https://github.com/Loczekk/hydrogen-line-LNA/blob/main/images/gotowy.jpg" width="220px" alt="ADF4350 Generator" style="border-radius: 10px;">
+      </a>
+      <div><strong>LNA for 1420 MHz hydrogen line</strong></div>
     </td>
   </tr>
 </table>
